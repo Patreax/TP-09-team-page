@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="tp"
+                 name="Team Page"
+                 start-page="Home-Page.md">
+
+    <toc-element topic="Home-Page.md"/>
+    <toc-element topic="Stretnutie-1-8-10.md"/>
+    <toc-element topic="Stretnutie-2-15-10.md"/>
+    <toc-element topic="Stretnutie-3-22-10.md"/>
+    <toc-element topic="Stretnutie-4-29-10.md"/>
+    <toc-element topic="Stretnutie-5-5-11.md"/>
+    <toc-element topic="Stretnutie-6-12-11.md"/>
+    <toc-element topic="Subory.md"/>
+    <toc-element topic="team-page.md"/>
+</instance-profile>
